@@ -7,7 +7,7 @@ En este conversor podrás realizar divisas del Peso mexicano a diferentes moneda
 
 Para la programación de este programa se utilizo IntelliJ IDEA junto con una API de divisas  💸  de las monedas del continente americano.
 
-## _¿Cómo se utiliza?_ :bowtie:
+## _¿Cómo se utiliza?_ 😬
 
 Para probarlo necesitas descargar el Zip proporcionado por GitHub, abrir la carpeta en tu IntelliJ y ejecutar el programa para verlo en la consola/terminal, tal como se muestra en la imagen
 
